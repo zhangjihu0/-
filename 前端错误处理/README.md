@@ -110,8 +110,6 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/Navigator/sendBeacon;
 
 ```
 ### 8.开源项目
-```
-https;//github.com/lgwebdream/zanePerfor
 
-```
+https://github.com/lgwebdream/zanePerfor
 
